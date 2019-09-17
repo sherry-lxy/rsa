@@ -251,7 +251,6 @@ int main()
 				tmp = a[i];
 				a[i] = b[i];
 				b[i] = tmp;
-
 			}
 
 			Trim(a); // 前の0を削除
